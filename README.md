@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-## i'm lxjo.
-## i code sometimes
+# i'm lxjo
+# and i code sometimes
 <!--
 **lxjo101/lxjo101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
